@@ -1,0 +1,7 @@
+So the Rules to participate are very simple. The steps are below.
+
+1. Make a Linkedin Post that you are starting with this challenge. This post will make you accountable, and you cannot stop in between or get distracted. Do use #SdeSheetChallenge (please maintain upper case and lower case while posting for us to track you)
+2. Register at this link: https://bit.ly/3x3DE6u, you can opt-out of giving your phone number if you wish to. The reason we asking you to register here is that Codestudio will be giving you a public leaderboard in 1 week [you will get that over your email id] so that everyone can see where you are standing among all your peers. This will help you to track your progress and prepare accordingly. Also, you won’t be eligible for prizes given by Codestudio if you don’t, however you will be eligible for all prizes by takeUforward.
+3. Create a GitHub repo where you stored all your codes. This will be checked at the end during prizes if anyone has cheated or not. We recommend you upload the code the moment you get “Accepted”.
+4. Start solving the problems, you can solve them at Codestudio and Leetcode both, the function params have been mostly kept similar to ease it out for you. If you have solved any problems beforehand at Codestudio, it will be automatically added to your score the moment you register. We got you covered.
+5. Once you have solved all the problems, you can fill this form. In case you decide to post on Linkedin or other social media about the completion out of happiness, you can use the hashtag #SdeSheetChallengeDone
