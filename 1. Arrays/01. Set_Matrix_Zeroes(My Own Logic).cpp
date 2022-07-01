@@ -1,3 +1,6 @@
+// Approach : Record row and column where zero is present
+// Convert every element of these rows and colums to zero
+
 class Solution
 {
 public:
