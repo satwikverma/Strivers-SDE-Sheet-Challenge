@@ -8,4 +8,4 @@ Day-2
 
 Kadane’s Algorithm
 Sort an array of 0’s 1’s 2’s
-Stock buy and Sell
+Stock buy & Sell
